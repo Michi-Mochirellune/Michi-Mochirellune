@@ -3,8 +3,9 @@
 # Приветик, это Мичи (Навальный??)
 
 ![Views](https://komarev.com/ghpvc/?username=Michi-Mochirellune&color=ff8cb5&style=for-the-badge&label=VIEWS)
-[![Telegram](https://img.shields.io/badge/Telegram-ff8cb5?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PSI_missing)
-[![Twitter](https://img.shields.io/badge/Twitter-643279?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MichiMochillune)
+[![Telegram](https://img.shields.io/badge/Telegram-00c0ff?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PSI_missing)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MichiMochillune)
+[![Telegram-группа](https://img.shields.io/badge/Telegram_group-643279?style=for-the-badge&logo=telegram&logoColor=white)](t.me/MochirelluneMichi)
 [![Bad Boy](https://img.shields.io/badge/Favorite_Track-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=gsCb0ZMOlvw)
 
 Я самоучка... Ну и всё <3
