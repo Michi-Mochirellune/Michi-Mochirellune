@@ -16,7 +16,7 @@
 
 * **[dns-resolver-michigan](https://github.com/Michi-Mochirellune/dns-resolver-michigan)** - Простенький DNS-резолвер написанный при помощи ИИ, я бедную нейронку мучаю заставляя исправлять баги.
 
-* **[World-of-Passwords](https://github.com/Michi-Mochirellune/World-of-Passwords-Secure-Generator-OpenSource)** - Генератор паролей (Ещё сырой)
+* **[World-of-Passwords](https://github.com/Michi-Mochirellune/World-of-Passwords-Secure-Generator-OpenSource)** - Генератор паролей, много плюшек и всё сделано добротно, вроде как :Р
 
 ### 📊 Статистика
 
