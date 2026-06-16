@@ -14,6 +14,8 @@
 
 * **[Инструкции по "оживлению" интернета в России](https://github.com/Michi-Mochirellune/my-guides)** — Мой репозиторий с гайдами по обходу российских блокировок для Windows\linux и Android.
 
+* **[dns-resolver-michigan](https://github.com/Michi-Mochirellune/dns-resolver-michigan)** - Простенький DNS-резолвер написанный при помощи ИИ, я бедную нейронку мучаю заставляя исправлять баги 
+
 ### 📊 Статистика
 
 ![Michi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Michi-Mochirellune&theme=dark&background=000000&fire=ff8cb5&ring=643279&currStreakLabel=ff8cb5)
