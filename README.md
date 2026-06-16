@@ -14,7 +14,9 @@
 
 * **[Инструкции по "оживлению" интернета в России](https://github.com/Michi-Mochirellune/my-guides)** — Мой репозиторий с гайдами по обходу российских блокировок для Windows\linux и Android.
 
-* **[dns-resolver-michigan](https://github.com/Michi-Mochirellune/dns-resolver-michigan)** - Простенький DNS-резолвер написанный при помощи ИИ, я бедную нейронку мучаю заставляя исправлять баги 
+* **[dns-resolver-michigan](https://github.com/Michi-Mochirellune/dns-resolver-michigan)** - Простенький DNS-резолвер написанный при помощи ИИ, я бедную нейронку мучаю заставляя исправлять баги.
+
+* **[World-of-Passwords](https://github.com/Michi-Mochirellune/World-of-Passwords-Secure-Generator-OpenSource)** - Генератор паролей (Ещё сырой)
 
 ### 📊 Статистика
 
