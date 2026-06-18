@@ -6,7 +6,6 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-00c0ff?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PSI_missing)
 [![Music](https://img.shields.io/badge/Favorite_Track-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=lqkhPsJCphY&list=RDlqkhPsJCphY&start_radio=1)
-
 [![VS Code](https://img.shields.io/badge/Using-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 Я самоучка... Ну и всё <3
